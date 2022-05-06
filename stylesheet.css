@@ -18,3 +18,8 @@ li {
     float: left;
     padding: 33px 20px;
   }
+
+.item {
+  width: 50%;
+  float: left;
+}
